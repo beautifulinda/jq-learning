@@ -27,5 +27,5 @@ cd jq-learning
 
 set AUTHORIZATION=${YOUR_AUTHORIZATION} 
 
-krathon2024_json
+krathon2024_curl
 ```

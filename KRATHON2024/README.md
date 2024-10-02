@@ -13,7 +13,7 @@
 ```bash
 git clone https://github.com/beautifulinda/jq-learning.git
 
-cd jq-learning
+cd jq-learning\KRATHON2024
 
 krathon2024_json
 ```
@@ -23,7 +23,7 @@ krathon2024_json
 ```bash
 git clone https://github.com/beautifulinda/jq-learning.git
 
-cd jq-learning
+cd jq-learning\KRATHON2024
 
 set AUTHORIZATION=${YOUR_AUTHORIZATION} 
 

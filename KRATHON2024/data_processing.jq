@@ -40,7 +40,7 @@ def content(s):
       .pressure, 
       beaufort(.maxWindSpeed; $wind),
       beaufort(.maxGustSpeed; $wind),
-      $direction[.movingDirection], 
+      $direction[.movingDirection] // .movingDirection, 
       .movingPrediction[0].value
     ]
   else
